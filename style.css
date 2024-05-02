@@ -1,0 +1,49 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 20px;
+}
+
+h1 {
+	color: #3F51B5;
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+h2 {
+	color: #2196F3;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	color: #0D47A1;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+ol, ul, dl {
+	margin-left: 2rem;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-left: 1rem;
+}
+
+img {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #337AB7;
+}
+
+a:hover {
+	color: #23527C;
+}
